@@ -10,7 +10,7 @@ let newArray = [];
 
 // forEach loop to push elements 
 // into new array 
-courses.forEach(function (course) { 
+courses.forEach(course => { 
 	newArray.push(course); 
 }); 
 
